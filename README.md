@@ -21,7 +21,8 @@ Referência: https://reactnative.dev/docs/navigation
 
 Instalação do React Navigation
 > npm install @react-navigation/native @react-navigation/native-stack
+
 > npm install @react-navigation/bottom-tabs
-> 
+ 
 Dentro do projeto: instalação das dependências para o Expo
 > expo install react-native-screens react-native-safe-area-context
