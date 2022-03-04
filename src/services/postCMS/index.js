@@ -16,6 +16,14 @@ class PostCMSService {
             titulo: 'Produtos',
             texto:  'asdf asdf asdf asdf aear fgegfhj jh dfgadfqf adfghj sghadsf'
         }:
+        (idCliente == 1 && idPost == 3) ? {
+            titulo: 'Equipe',
+            texto:  'asdf asdf asdf asdf aear fgegfhj jh dfgadfqf adfghj sghadsf'
+        }:
+        (idCliente == 1 && idPost == 4) ? {
+            titulo: 'Fale Conosco',
+            texto:  'asdf asdf asdf asdf aear fgegfhj jh dfgadfqf adfghj sghadsf'
+        }:
         {
             titulo: 'Erro',
             texto:  'Erro'
